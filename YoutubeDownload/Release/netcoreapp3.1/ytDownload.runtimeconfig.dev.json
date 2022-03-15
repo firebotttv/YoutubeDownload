@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\skand\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\skand\\.nuget\\packages"
-    ]
-  }
-}
